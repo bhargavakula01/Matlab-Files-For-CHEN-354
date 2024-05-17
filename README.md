@@ -1,2 +1,2 @@
 # Matlab-Files-For-CHEN-354
-Matlab Files that can solve key problems in CHEN 354 (Thermodynamics II)
+Supplemental Matlab Files used within CHEN 354 course to help solve problems within THERMO II.
