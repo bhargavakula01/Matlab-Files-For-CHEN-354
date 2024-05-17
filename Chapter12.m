@@ -1,4 +1,4 @@
-%How to formulate a Tx1 graph for LLE
+%How to formulate a Tx1 ( temperature vs x1(composition) ) graph for LLE
 clear all;
 close all;
 
